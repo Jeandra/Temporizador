@@ -1,2 +1,2 @@
 # Temporizador
- crescente e decrescente
+ crescente .
