@@ -1,12 +1,16 @@
-
+ body{
+     background-color: black;
+ }
 #tempo{
     font-size: 100px;
     font-family: fantasy;
     text-align: center;
+    color: yellow;
 }
 
 h3{
     font-size: 50px;
     font-family: monospace;
     text-align: center;
+    color: yellow;
 }
