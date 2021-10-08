@@ -1,2 +1,1 @@
-# Temporizador
- crescente 
+# Temporizador  Crescente
